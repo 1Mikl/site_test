@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.footer>div>img {
+    width: 45px;
+    margin-inline: 1em;
+}
+.footer>div>p {
+    margin: 1em;
+    cursor: pointer;
+}
